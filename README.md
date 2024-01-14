@@ -1,3 +1,6 @@
-![z5070279715083_a5bc79d3ece6af3a37b9df65728aca65](https://github.com/dung-1/TabAndViewPaper/assets/102821755/86821964-2fb0-48f9-8144-894494004a75)
-![z5070279718073_a2adffb2f43f9b84c2257c9a3fc52b0b](https://github.com/dung-1/TabAndViewPaper/assets/102821755/66dc2c27-5440-42cc-8222-fa21c6938903)
-![z5070279766874_ae9f931869c33ed6703a3b5714d57618](https://github.com/dung-1/TabAndViewPaper/assets/102821755/69182aaa-cd63-4915-99a2-f122e56c3ba7)
+<img width="187" alt="image" src="https://github.com/dung-1/TabAndViewPaper/assets/102821755/3fec70c2-0f2e-4c5c-8a42-78ec27c68653">Home FRAGMENT
+<img width="186" alt="image" src="https://github.com/dung-1/TabAndViewPaper/assets/102821755/de4e91de-8ec7-4b82-9e0b-8d6955db91c6">
+Notification FRAGMENT
+<img width="187" alt="image" src="https://github.com/dung-1/TabAndViewPaper/assets/102821755/ab0bfa69-1bb1-4627-9406-93c24981e998">
+Setting FRAGMENT
+<img width="182" alt="image" src="https://github.com/dung-1/TabAndViewPaper/assets/102821755/a2c00449-fb98-4057-92ce-ac655acb3d5a">
